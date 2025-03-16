@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm going to be a java programmer C:
+I'm a java programmer :)
 
 <!--
 **Enno2010/Enno2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
